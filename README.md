@@ -1,4 +1,4 @@
-# 🎓 Online Learning Platform for Special Needs Education (SWE Project)
+# Online Learning Platform for Special Needs Education (SWE Project)
 
 [![SWE](https://img.shields.io/badge/Discipline-Software%20Engineering-1f6feb?logo=github&logoColor=white)]()
 
